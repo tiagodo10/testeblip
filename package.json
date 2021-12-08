@@ -1,0 +1,22 @@
+{
+  "name": "testeblip",
+  "version": "1.0.0",
+  "description": "avaliação técnica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiagodo10/testeblip.git"
+  },
+  "author": "Tiago Alves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiagodo10/testeblip/issues"
+  },
+  "homepage": "https://github.com/tiagodo10/testeblip#readme",
+  "dependencies": {
+    "cypress": "^9.1.1"
+  }
+}
